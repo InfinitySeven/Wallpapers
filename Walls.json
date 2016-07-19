@@ -1,0 +1,28 @@
+{
+   "wallpapers": [
+      {
+         "author": "Nico Ivarra",
+         "url": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D1.jpg",
+         "name": "Wall 01",
+         "thumbnail": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D1_thumb.jpg"
+      },
+      {
+         "author": "Nico Ivarra",
+         "url": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D2.jpg",
+         "name": "Wall 02",
+         "thumbnail": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D2_thumb.jpg"
+      },
+      {
+         "author": "Nico Ivarra",
+         "url": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D3.jpg",
+         "name": "Wall 03",
+         "thumbnail": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D3_thumb.jpg"
+      },
+      {
+         "author": "Nico Ivarra",
+         "url": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D4.jpg",
+         "name": "Wall 04",
+         "thumbnail": "https://raw.githubusercontent.com/InfinitySeven/Wallpapers/master/D4_thumb.jpg"
+      }
+   ]
+}
